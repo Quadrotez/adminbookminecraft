@@ -1,4 +1,4 @@
 # adminbookminecraft
-Actual command in file command.txt
+Actual commands in a folder command
 
 Link to the bookmaker: http://minecraft.tools/ru/sharecmd-670565-bookadmin2511232
